@@ -14,7 +14,7 @@ Landing page integrada a uma plataforma de e-mail marketing, feito com Html e Cs
 #
 ## Sobre o Projeto
  
-Aplicação faz captura de leads para automação de e-mail marketing.  
+Essa aplicação faz captura de leads para automação de e-mail marketing.  
 Está integrada ao [MailChimp](https://mailchimp.com/pt-br/grow-with-mailchimp/?gclid=Cj0KCQjwzqSWBhDPARIsAK38LY_TB6vTMAkvLD6CmnulhThgXF5acXXkXsdxKuDeyjq06xuM2BxVgP0aAl_rEALw_wcB&gclsrc=aw.ds), podendo gerenciar listas de e-mail para criar campanhas de e-mail marketing.
  
 🛠 Tecnologias
